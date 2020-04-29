@@ -3,7 +3,6 @@ body, div, h1,h2,h3,p{
   padding:0;
 }
 #businessCycle {
-  background: #f5f5f5;
   margin-bottom: 165px;
 }
 
@@ -33,7 +32,7 @@ body, div, h1,h2,h3,p{
 }
 
 #businessCycle .flex__container {
-  position: relative;
+  /*position: relative;*/
   bottom: -165px;
   display: -webkit-box;
   display: -moz-box;
